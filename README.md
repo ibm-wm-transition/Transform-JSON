@@ -47,3 +47,5 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88922381-a6454280-d28d-11ea-9ae9-cab58d4b1b55.png)
 2.  Now run the workflow it will give you output in the logger. Here you can see the new array after a pop.<br/>
 
+--------
+These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
